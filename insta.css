@@ -1,0 +1,29 @@
+.i{
+    margin-top: 100px;
+    font-family: Freestyle Script;
+    font-size: 50px;
+    display: inline;
+}
+div{
+    display: inline;
+    padding-left: 1080px;
+
+}
+.m{
+    display: inline;
+    height: 123px ;width: 130px;
+    padding-top: 15px;
+    border-radius: 100px 100px;
+    border-inline: hidden;
+    
+}
+
+.n{
+    padding-left: 15px;
+    height: 100px ;width: 95px;
+    padding-top: 15px;
+    border-radius: 110px 110px;
+    border-inline: hidden;  
+}
+
+    
